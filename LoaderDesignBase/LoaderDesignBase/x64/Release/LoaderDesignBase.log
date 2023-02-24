@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(132,1): warning C4005: 'PASCAL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\Lmcons.h(45,1): message : see previous definition of 'PASCAL'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 240 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LoaderDesignBase.vcxproj -> C:\Users\htobi\Desktop\dynamo.wtf\LoaderDesignBase\x64\Release\LoaderDesignBase.exe
